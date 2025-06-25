@@ -121,7 +121,7 @@ This analysis showcases the power of clean transaction data in uncovering custom
 ##  About the Analyst
 
 **Oluwademilade Adeniyi**  
-Junior Data Analyst | Power BI & Excel Specialist  
+Data Analyst | Power BI Developer | Power BI & Excel Specialist  
 - [LinkedIn](https://www.linkedin.com/in/adeniyioluwademilade)  
 - [Twitter](https://twitter.com/iamdemibolt)  
 - Email: adeniyioluwademilade@gmail.com  
