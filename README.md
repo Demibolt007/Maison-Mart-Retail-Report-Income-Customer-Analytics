@@ -10,7 +10,6 @@ This project delivers a detailed Power BI analysis of income performance, produc
 - **Tool Used:** Microsoft Power BI  
 - **Dataset Source:** [Kaggle – E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)  
 - **Period Covered:** December 2010 – December 2011  
-- **Repository Link:** [GitHub Repository](https://github.com/Demibolt007/Maison-Mart-Retail-Report-Income-Customer-Analytics)
 
 ---
 
