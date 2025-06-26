@@ -2,7 +2,7 @@
 
 This project delivers a detailed Power BI analysis of income performance, product movement, and customer behaviour for a retail e-commerce business. The insights span trends in sales, customer loyalty, top-selling products, and regional performance — enabling data-driven recommendations for business optimisation.
 
-![Analysis+Boards](https://github.com/user-attachments/assets/a5f96327-3429-43e6-8d8e-7abd1ddb4450)
+![Maison Mart Retail Report - Income   Customer Analytics](https://github.com/user-attachments/assets/83574e9d-ea0d-4b1b-881e-c4c15d78f095)
 
 ##  Project Details
 
